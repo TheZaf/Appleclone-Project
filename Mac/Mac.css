@@ -1,0 +1,377 @@
+.content{
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+  width: 996px;
+  height: 44px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+.a-class{
+    text-decoration: none;
+    color: black;
+}
+.apple-logo{
+  width: 18px;
+  height: 18px;
+}
+.sb-png{
+  width: 15px;
+  height: 15px;
+}
+
+.header-items{
+ font-family: roboto;
+ font-size: 11.5px;
+}
+.apple-items{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.mac-mini{
+    height: 53px;
+    width: 27px;
+    margin-left: 35px;
+}
+.mac-pro{
+    height: 53px;
+    width: 35px;
+    margin-left: 30px;
+}
+.des{
+    display: flex;
+    justify-content: center;
+    display: flexbox;
+    width: 100%;
+    font-size: 12px;
+    font-family: roboto;
+}
+.items{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+
+}
+.imac{
+    margin-left: 30px;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+.mac{
+    display: flex;
+    justify-content: center;
+    height: 54px;
+    width: 45px;
+}
+svg{
+    display: inline-flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.compare{
+    margin-left: 25px;
+}
+.acc{
+    margin-left: 30px;
+}
+.shop{
+    margin-left: 0px;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F7;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-family: roboto;
+    font-size: 14px;
+
+}
+.shop-btn{
+    color: #0066CC;
+    font-weight: 500;
+}
+.section-mac{
+    display: inline-flex;
+    justify-content: center;
+    width: 1300px;
+    height: 800px;
+    background-color: #FBFBFD;
+    padding-top: 60px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.mac-content{
+    width: 980px;
+    height: 672px;
+}
+.macair-png{
+    padding-top: 200px;
+}
+.new{
+    font-family: Noto Sans Osmanya;
+    font-size: 16px;
+    color: #F56300;
+    margin-top: 0px;
+    margin-bottom: 0px;    
+}
+.macmodel{
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 55px;
+    color: #1D1D1F;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.macdes{
+    font-family: roboto;
+    font-size: 32px;
+    color: #1D1D1F;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.rs{
+    font-family: roboto;
+    font-size: 17px;
+    color: #1D1D1F;
+    font-weight: 500;
+}
+.buy-btn{
+    height: 36px;
+    font-size: 17px;
+    color: white;
+    background-color: #0071E3;
+    border: none;
+    width: 60px;
+    border-radius: 25px;
+}
+.lrn{
+    color: #0066CC;
+    font-size: 17px;
+    font-family: roboto;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+.macstd-png{
+    padding-top: 150px;
+    position: relative;
+    left: 220px;
+    
+}
+.macpro-png{
+    padding-top: 150px;
+    position: relative;
+    left: 180px;   
+}
+.section-compare{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    background-color: #FAFAFA;
+    width: 1300px;
+    height: 200.98px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.section-compare2{
+    display: flex;
+    justify-content: center;
+    background-color: #FAFAFA;
+    width: 1300px;
+    height: 1722.98px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.comp{
+    font-family: roboto;
+    font-size: 48px;
+    color: #1D1D1F;
+    display: block;
+    height: 50px;
+}
+.compare-box{
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    width: 980px;
+    height: 1846px;
+}
+.mba-m1-device{
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    width: 219.5px;
+    height: 1500px;
+    padding-left: 20px;
+}
+.fig{
+    width: 212px;
+    height: 114px;
+    margin: 0px 0px 0px 0px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.device-content{
+    width: 219.5px;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    font-family: roboto;
+    color: #1D1D1F;
+    font-size: 20px;
+    line-height: 15px;
+    
+}
+h3{
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+.mba-links{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 219.5px;
+    height: 82px;
+
+}
+.line{
+    width: 219px;
+}
+.by{
+    width: 45px;
+    height: 24px;
+    border: none;
+    color: white;
+    background-color: #0071E3;
+    border-radius: 20px;
+    position: relative;
+    left: 85px;
+    margin-top: 10px;
+}
+.lrn-m{
+    font-family: roboto;
+    font-size: 14px;
+    color: #0066CC;
+}
+.display-cell{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 219px;
+    height: 76px;
+}
+.cm{
+    position: relative;
+    left: 70px;
+    font-family: roboto;
+    font-size: 21px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #1D1D1F;
+}
+.chip{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 219px;
+    height: 99px;
+}
+.mac-chip{
+    position: relative;
+    left: 85px;
+    width: 48px;
+    height: 44px;
+}
+.cpu{
+    width: 219px;
+    padding-top: 20px;
+    height: 71px;
+    font-family: roboto;
+}
+.core{
+    position: relative;
+    left: 75px;
+    font-size: 21px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.unif-memory{
+    padding-top: 40px;
+    width: 219px;
+    height: 71px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.unif{
+    position: relative;
+    left: 82px;
+}
+.tb{
+    font-family: roboto;
+    font-size: 21px;
+    position: relative;
+    left: 78px;
+    margin-bottom: 0px;
+}
+.storage{
+    padding-top: 20px;
+}
+.battery{
+    padding-top: 30px;
+    width: 219px;
+    height: 84px;
+}
+.bat{
+   position: relative;
+   left: 87px;
+}
+.camera{
+    padding-top: 30px;
+    width: 219px;
+    height: 84px;
+}
+.cam{
+    position: relative;
+    left: 90px;
+}
+.table{
+    display: inline-flex;
+    justify-content: center;
+    font-family: roboto;
+}
+p{
+    font-family: roboto;
+    font-size: 14px;
+}
+.weight{
+    padding-top: 30px;
+    width: 219px;
+    height: 56px;
+}
+.link-wrap{
+    width: 1300px;
+    height: 100px;
+    background-color: lightblue;
+}

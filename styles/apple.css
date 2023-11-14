@@ -1,0 +1,162 @@
+.content{
+      margin-top: 0px;
+      padding-bottom: 70px;
+    }
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 996px;
+    height: 44px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.apple-logo{
+    width: 18px;
+    height: 18px;
+}
+.sb-png{
+    width: 15px;
+    height: 15px;
+}
+
+.header-items{
+   font-family: roboto;
+   font-size: 11.5px;
+}
+@font-face {
+    font-family: myfont;
+    src:url(SF-Pro.ttf);
+}
+.dd-billboard-img{
+    display: flex;
+    justify-content: center; 
+    position: relative;
+    left: 170px;
+    width: 980px;
+    height: 379.97px;
+    margin-top: 35px;
+}
+.edu-billboard{
+    height: 370px;
+    width: 380px; 
+}
+.dd-billboard-info{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 346.19px;
+    width: 980px;
+    position: relative;
+    left: 200px;
+}
+.heading{
+    align-items: center;
+    font-family: DM sans;
+    font-weight: 700;
+    width: 744.81px;
+    height: 156px;
+    font-size: 23px;
+    margin-top: 0px;
+    color: #1D1D1F;
+    line-height: 49px;
+    display: block;
+    margin-left: 150px;
+}
+h1{
+    margin-top: 0px;
+}
+.para{
+    margin-left: 105px;
+    margin-top: 20px;
+    height: 87px;
+    width: 764.41px;
+    font-size: 20px;
+    font-family: DM sans;
+    color: #1D1D1F;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    width: 980px;
+    height: 44px;
+}
+.vrf-btn{
+    position: relative;
+    left: -8px;
+    width: 244.03px;
+    height: 44px;
+    font-size: 17px;
+    color: white;
+    background-color: #0071E3;
+    border: none;
+    border-radius: 22px;
+}
+.billboard-gridsec{
+    display: flex;
+    justify-content: center;
+    display: grid;
+    width: 100%;
+    height: 1726px;
+    background-color: #F5F5F7;
+    grid-template-columns:356.66px 356.66px 356.66px;
+    row-gap: 0px;
+    column-gap: 10px;
+    padding-top: 70px;
+
+}
+.bb-tile-container{
+    width: 356.66px;
+    height: 423px;
+    background-color:white;
+    border-radius: 20px;
+}
+.cont-img{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    width: 356.66px;
+    height: 230px;
+}
+.mac{
+    width: 226px;
+    height: 178px;
+}
+.cont-des{
+    font-family: roboto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.pods{
+    margin-top: 20px;
+    font-size: 12px;
+    color: #BF4800;
+}
+.cost{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.discount{
+    margin-top: 0px;
+    font-size: 12px;
+    color: #6E6E73;
+}
+.univ-btn{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F7;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.a-class{
+    text-decoration: none;
+    color: black;
+}

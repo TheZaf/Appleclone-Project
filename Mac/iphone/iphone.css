@@ -1,0 +1,45 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 996px;
+    height: 38px;
+    background-color: #F5F5F7;
+    padding-left: 172px;
+    padding-right: 172px;
+  }
+  .apple-logo{
+    width: 18px;
+    height: 18px;
+  }
+  .sb-png{
+    width: 15px;
+    height: 15px;
+  } 
+  .header-items{
+   font-family: roboto;
+   font-size: 11.5px;
+  }
+  .apple-items{
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+.items{
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 100px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
